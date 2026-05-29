@@ -1,0 +1,82 @@
+[
+  {
+    "eixo": "Governança e Cooperação Intermunicipal",
+    "objetivo": "Fortalecer a governança consorciada e a atuação integrada dos municípios consorciados.",
+    "indicador": "Percentual de municípios consorciados com participação em assembleias, câmaras temáticas ou ações institucionais.",
+    "meta": "Alcançar participação regular de, no mínimo, 80% dos entes consorciados nas instâncias e ações institucionais do CIMOP.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Planejamento, Programas e Projetos",
+    "objetivo": "Apoiar os municípios na elaboração e execução de planos, programas e projetos em áreas administrativas, sociais, institucionais e de infraestrutura.",
+    "indicador": "Quantidade de planos, programas, projetos ou assessoramentos técnicos prestados aos municípios.",
+    "meta": "Ampliar progressivamente a carteira de projetos e assessoramentos técnicos de interesse regional.",
+    "periodicidade": "Semestral",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Compras Públicas e Gestão Compartilhada",
+    "objetivo": "Promover licitações compartilhadas, padronização de procedimentos e gestão conjunta de bens e serviços de interesse dos municípios consorciados.",
+    "indicador": "Quantidade de processos compartilhados, atas ou instrumentos de contratação coletiva disponibilizados aos entes consorciados.",
+    "meta": "Estruturar processos compartilhados conforme as demandas formalizadas pelos municípios consorciados.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Saneamento Básico e Resíduos Sólidos",
+    "objetivo": "Planejar, fiscalizar e apoiar soluções regionalizadas de saneamento básico, gestão, tratamento, transporte e destinação final de resíduos sólidos.",
+    "indicador": "Número de municípios contemplados por ações, estudos, projetos ou serviços voltados ao saneamento e resíduos sólidos.",
+    "meta": "Promover soluções regionais que ampliem a cobertura e a regularidade dos serviços de saneamento e gestão de resíduos.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Saúde e Vigilância",
+    "objetivo": "Desenvolver ações compartilhadas de saúde, vigilância sanitária, vigilância epidemiológica e apoio técnico aos municípios consorciados.",
+    "indicador": "Quantidade de ações, programas, serviços ou projetos regionais de saúde e vigilância apoiados ou executados pelo CIMOP.",
+    "meta": "Implantar ou apoiar ações regionalizadas que contribuam para a melhoria da capacidade de atendimento dos municípios.",
+    "periodicidade": "Semestral",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Meio Ambiente, Turismo e Desenvolvimento Sustentável",
+    "objetivo": "Promover ações de proteção ambiental, uso racional dos recursos naturais, licenciamento, fiscalização e valorização do patrimônio turístico e paisagístico comum.",
+    "indicador": "Quantidade de iniciativas ambientais, estudos, projetos, fiscalizações, capacitações ou ações de apoio aos municípios.",
+    "meta": "Consolidar uma agenda regional de sustentabilidade, controle ambiental e valorização dos ativos naturais e turísticos.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Infraestrutura, Mobilidade e Obras Públicas",
+    "objetivo": "Apoiar o planejamento, execução, conservação e manutenção de vias públicas, obras públicas, mobilidade urbana e infraestrutura regional.",
+    "indicador": "Quantidade de projetos, serviços técnicos, ações de manutenção ou iniciativas de infraestrutura apoiadas pelo consórcio.",
+    "meta": "Ampliar a capacidade regional de suporte técnico e operacional aos municípios em infraestrutura e mobilidade.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Inspeção Sanitária, Sanidade Agropecuária e Segurança Alimentar",
+    "objetivo": "Estruturar ações de inspeção, fiscalização sanitária animal e vegetal, segurança alimentar e apoio ao desenvolvimento de agroindústrias municipais.",
+    "indicador": "Número de municípios ou empreendimentos atendidos por orientação, inspeção, capacitação ou suporte técnico.",
+    "meta": "Apoiar a organização regional dos serviços de inspeção e sanidade, visando padronização e fortalecimento das cadeias produtivas.",
+    "periodicidade": "Semestral",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Capacitação e Escola de Governo",
+    "objetivo": "Promover capacitação, formação e treinamento de servidores e equipes técnicas dos municípios consorciados.",
+    "indicador": "Quantidade de cursos, treinamentos, oficinas ou capacitações realizados.",
+    "meta": "Realizar agenda permanente de formação voltada às necessidades administrativas e técnicas dos municípios.",
+    "periodicidade": "Anual",
+    "situacao": "Planejado"
+  },
+  {
+    "eixo": "Transparência, Controle e Avaliação",
+    "objetivo": "Aprimorar mecanismos de controle, acompanhamento, avaliação e transparência dos serviços e ações executadas pelo CIMOP.",
+    "indicador": "Percentual de atendimento aos critérios de transparência e quantidade de informações institucionais publicadas em formato acessível.",
+    "meta": "Manter atualização contínua das informações institucionais e ampliar a disponibilidade de dados em formato aberto e editável.",
+    "periodicidade": "Contínua",
+    "situacao": "Planejado"
+  }
+]
